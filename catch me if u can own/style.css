@@ -1,0 +1,12 @@
+#container{
+    width:120px;
+    height: 110px;
+    border:1px solid black;
+    background-color: rgb(124, 185, 209);
+}
+p{
+    font-size: 0.8rem;
+    padding-top:35px;
+    font-family: sans-serif;
+    text-align: center;
+}
